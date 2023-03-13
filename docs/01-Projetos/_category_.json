@@ -1,8 +1,8 @@
 {
-  "label": "Introdução",
+  "label": "Projetos",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "Material auxiliar para aula de Algoritmos de Estruturas de Dados."
+    "description": "Projetos da robótica."
   }
 }

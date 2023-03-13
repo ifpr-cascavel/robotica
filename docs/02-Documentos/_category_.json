@@ -1,8 +1,8 @@
 {
-  "label": "Elementos básicos",
+  "label": "Documentos",
   "position": 3,
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "description": "Documentos relacionados à robótica."
   }
 }

@@ -1,0 +1,8 @@
+{
+  "label": "Eventos",
+  "position": 6,
+  "link": {
+    "type": "generated-index",
+    "description": "Eventos relacionados à robótica."
+  }
+}
