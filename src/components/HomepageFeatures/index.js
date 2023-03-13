@@ -4,30 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Algoritmos',
+    title: 'Robótica',
     Svg: require('@site/static/img/algorithm.svg').default,
     description: (
       <>
-        Lógica de programação, estruturas de seleção, repetição e funções.
+        Robótica. Arduíno. Lego. ESP32.
       </>
     ),
   },
   {
-    title: 'Estruturas de Dados',
+    title: 'Sistemas embarcados',
     Svg: require('@site/static/img/sort_2.svg').default,
     description: (
       <>
-        Vetores, matrizes, listas, filas e pilhas.
+        Desenvolvimento de sistemas embarcados.
       </>
     ),
   },
   {
-    title: 'Busca e Ordenação',
+    title: 'IoT',
     Svg: require('@site/static/img/sort.svg').default,
     description: (
       <>
-        Busca sequencial e busca binária. Bubble Sort, Selection Sort, 
-        Insertion Sort, Merge Sort, Quick Sort e Radix Sort.
+        Dispositivos, protocolos e equipamentos.
       </>
     ),
   },
