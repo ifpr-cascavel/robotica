@@ -1,6 +1,11 @@
 # Robotica
 Página web do grupo de robótica do IFPR Cascavel
 
+## Acesso
+
+Para acessar a página:
+
+[https://ifpr-cascavel.github.io/robotica](https://ifpr-cascavel.github.io/robotica)
 
 ## Atualizações
 
