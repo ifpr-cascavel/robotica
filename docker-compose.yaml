@@ -31,5 +31,5 @@ services:
     volumes:
       - .:/robotica
     working_dir: /robotica
-    command: bash -c "git config --global user.email $GIT_MAIL && git config --global user.name $GIT_NAME && export && pwd"
+    command: bash -c "git config --global user.email $GIT_MAIL && git config --global user.name $GIT_NAME && yarn deploy"
     
