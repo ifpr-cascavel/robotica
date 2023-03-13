@@ -1,0 +1,35 @@
+version: '3'
+services:
+  #Robotica
+  init:
+    image: node:19-slim
+    profiles: ['init', 'robotica']
+    volumes:
+      - .:/robotica
+    working_dir: /robotica
+    command: npm install
+
+  robotica:
+    image: node:19-slim
+    volumes:
+      - .:/robotica
+    ports:
+      - "3030:3000"
+    working_dir: /robotica
+    command: npx docusaurus start --host 0.0.0.0
+    
+  deploy:
+    image: node:19
+    profiles: ['deploy', 'robotica']
+    environment:
+      - GIT_USER=$GIT_USER
+      - GIT_PASS=$GIT_PASS
+      - GIT_NAME=$GIT_NAME
+      - GIT_MAIL=$GIT_MAIL
+      - USE_SSH=$USE_SSH
+      - CURRENT_BRANCH=$CURRENT_BRANCH
+    volumes:
+      - .:/robotica
+    working_dir: /robotica
+    command: bash -c "git config --global user.email $GIT_MAIL && git config --global user.name $GIT_NAME && export && pwd"
+    
