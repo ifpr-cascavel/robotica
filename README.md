@@ -1,5 +1,8 @@
-# robotica
+# Robotica
 Página web do grupo de robótica do IFPR Cascavel
+
+
+## Atualizações
 
 Para alterar a página:
 
