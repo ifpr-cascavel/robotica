@@ -6,20 +6,20 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'AED',
-  tagline: 'Algoritmos e Estruturas de Dados',
+  title: 'Robótica',
+  tagline: 'IFPR Cascavel',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://darlonv.github.io',
+  url: 'https://ifpr-cascavel.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/algoritmos/',
+  baseUrl: '/robotica/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'darlonv', // Usually your GitHub org/user name.
-  projectName: 'algoritmos', // Usually your repo name.
+  organizationName: 'ifpr-cascavel', // Usually your GitHub org/user name.
+  projectName: 'robotica', // Usually your repo name.
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
@@ -66,7 +66,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'AED',
+        title: 'Robótica',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -76,11 +76,11 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Material',
+            label: 'Conteúdo',
           },
-          // {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Notícias', position: 'left'},
           {
-            href: 'https://github.com/darlonv/algoritmos',
+            href: 'https://github.com/ifpr-cascavel/robotica',
             label: 'GitHub',
             position: 'right',
           },
@@ -99,20 +99,20 @@ const config = {
             ],
           },
           {
-            title: 'Outros materiais',
+            title: 'Outros',
             items: [
               {
-                label: 'AED',
+                label: 'Robotica',
+                href: 'https://ifpr-cascavel.github.io/robotica',
+              },
+              {
+                label: 'Algoritmos',
                 href: 'https://darlonv.github.io/algoritmos',
               },
-              // {
-              //   label: 'Discord',
-              //   href: 'https://discordapp.com/invite/docusaurus',
-              // },
-              // {
-              //   label: 'Twitter',
-              //   href: 'https://twitter.com/docusaurus',
-              // },
+              {
+                label: 'Redes',
+                href: 'https://darlonv.github.io/redes',
+              },
             ],
           },
           {
@@ -124,12 +124,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/ifpr-cascavel/robotica',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Darlon Vasata. Built with Docusaurus.`,
+        copyright: `IFPR Cascavel ${new Date().getFullYear()} - Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
