@@ -1,0 +1,8 @@
+{
+  "label": "Sobre",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "description": "Sobre a robótica."
+  }
+}
