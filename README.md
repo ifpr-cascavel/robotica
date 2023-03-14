@@ -34,3 +34,4 @@ Obs: GIT_PASS corresponde ao *token* de acesso ao github (e não à senha do usu
 7. Faça o *deploy* para o github
     - `docker compose up deploy`
 8. Acesse em [https://ifpr-cascavel.github.io/robotica](https://ifpr-cascavel.github.io/robotica)
+    - O site não é atualizado imediatamente. Demora alguns minutos.
