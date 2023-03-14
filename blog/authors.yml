@@ -1,17 +1,29 @@
 darlonv:
   name: Darlon Vasata
-  title: Professor
+  title: Pesquisador e Professor
   url: https://github.com/darlonv
   image_url: https://github.com/darlonv.png
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+odair:
+  name: Odair Moreira
+  title: Pesquisador e Professor
+  url: https://github.com/mestreOdams
+  image_url: https://github.com/mestreOdams.png
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+lo:
+  name: Thiago Ló
+  title: Pesquisador e Professor
+  url: https://github.com/losaum
+  image_url: https://github.com/losaum.png
+
+fernando:
+  name: Fernando de Lima Alves
+  title: Pesquisador e Professor
+  url: https://github.com/prof-fernando-alves
+  image_url: https://github.com/prof-fernando-alves.png
+
+edimaldo:
+  name: Edimaldo Fialho
+  title: Pesquisador e Professor
+  # url: https://sebastienlorber.com
+  # image_url: https://github.com/slorber.png
