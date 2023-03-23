@@ -4,10 +4,20 @@
         <title>Robótica Blog</title>
         <link>https://ifpr-cascavel.github.io/robotica/blog</link>
         <description>Robótica Blog</description>
-        <lastBuildDate>Mon, 13 Mar 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>pt-BR</language>
+        <item>
+            <title><![CDATA[Inscrições para Robótica 2023]]></title>
+            <link>https://ifpr-cascavel.github.io/robotica/blog/inscricoes2023</link>
+            <guid>https://ifpr-cascavel.github.io/robotica/blog/inscricoes2023</guid>
+            <pubDate>Mon, 20 Mar 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Estão abertas as incrições para a participação estudantes para o projeto de robótica no ano de 2023.]]></description>
+            <content:encoded><![CDATA[<p>Estão abertas as incrições para a participação estudantes para o projeto de robótica no ano de 2023.</p><p>As informações podem ser realizadas até o dia 26/03/2023. Para participar, basta acessar o link abaixo e preencher as informações solicitadas.</p><p>As inscrições são <strong>exclusivas</strong> para estudantes do IFPR Campus Cascavel.</p><p><a href="https://bit.ly/roboticaIFPR2023" target="_blank" rel="noopener noreferrer">Inscrição Robótica 2023</a></p>]]></content:encoded>
+            <category>inscricao</category>
+            <category>2023</category>
+        </item>
         <item>
             <title><![CDATA[Hello world]]></title>
             <link>https://ifpr-cascavel.github.io/robotica/blog/hello-world</link>

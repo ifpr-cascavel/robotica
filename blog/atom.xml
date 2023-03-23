@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ifpr-cascavel.github.io/robotica/blog</id>
     <title>Robótica Blog</title>
-    <updated>2023-03-13T00:00:00.000Z</updated>
+    <updated>2023-03-20T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ifpr-cascavel.github.io/robotica/blog"/>
     <subtitle>Robótica Blog</subtitle>
     <icon>https://ifpr-cascavel.github.io/robotica/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Inscrições para Robótica 2023]]></title>
+        <id>https://ifpr-cascavel.github.io/robotica/blog/inscricoes2023</id>
+        <link href="https://ifpr-cascavel.github.io/robotica/blog/inscricoes2023"/>
+        <updated>2023-03-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Estão abertas as incrições para a participação estudantes para o projeto de robótica no ano de 2023.]]></summary>
+        <content type="html"><![CDATA[<p>Estão abertas as incrições para a participação estudantes para o projeto de robótica no ano de 2023.</p><p>As informações podem ser realizadas até o dia 26/03/2023. Para participar, basta acessar o link abaixo e preencher as informações solicitadas.</p><p>As inscrições são <strong>exclusivas</strong> para estudantes do IFPR Campus Cascavel.</p><p><a href="https://bit.ly/roboticaIFPR2023" target="_blank" rel="noopener noreferrer">Inscrição Robótica 2023</a></p>]]></content>
+        <author>
+            <name>Darlon Vasata</name>
+            <uri>https://github.com/darlonv</uri>
+        </author>
+        <category label="inscricao" term="inscricao"/>
+        <category label="2023" term="2023"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello world]]></title>
         <id>https://ifpr-cascavel.github.io/robotica/blog/hello-world</id>

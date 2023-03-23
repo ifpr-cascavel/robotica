@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkalgoritmos=self.webpackChunkalgoritmos||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Inscri\xe7\xf5es para Rob\xf3tica 2023","permalink":"/robotica/blog/inscricoes2023"},{"title":"Hello world","permalink":"/robotica/blog/hello-world"}]}')}}]);
