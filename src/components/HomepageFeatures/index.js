@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Robótica',
-    Svg: require('@site/static/img/robotic.svg').default,
+    Svg: require('@site/static/img/cargo-crane-svgrepo-com.svg').default,
     description: (
       <>
         Robótica. Arduíno. Lego. ESP32.
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Sistemas embarcados',
-    Svg: require('@site/static/img/embedded.svg').default,
+    Svg: require('@site/static/img/processor-svgrepo-com.svg').default,
     description: (
       <>
         Desenvolvimento de sistemas embarcados.
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'IoT',
-    Svg: require('@site/static/img/iot.svg').default,
+    Svg: require('@site/static/img/microchip-svgrepo-com.svg').default,
     description: (
       <>
         Dispositivos, protocolos e equipamentos 

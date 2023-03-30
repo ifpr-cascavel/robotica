@@ -69,7 +69,7 @@ const config = {
         title: 'Robótica',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/vintage-robot-svgrepo-com.svg',
         },
         items: [
           {
@@ -125,6 +125,10 @@ const config = {
               {
                 label: 'GitHub',
                 href: 'https://github.com/ifpr-cascavel/robotica',
+              },
+              {
+                label: 'Licensing',
+                to: '/licensing',
               },
             ],
           },
